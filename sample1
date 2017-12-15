@@ -1,0 +1,13 @@
+// Here is sample code #1
+
+Rien COMMENCEMENT () {
+
+ Ecrivez ("Hi there!\n");
+ ecrivez ("I am going to print 2:  ");
+ ECRIVEZ (2);
+ ecriveZ ("\n");
+ eCRIVEz ("Now I am going to print 5.8:  ");
+ ECRIvEZ (5.8);
+ ecrIvez ("\n");
+ EcRiVeZ ("I am done now!\n");
+}
