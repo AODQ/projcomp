@@ -1,0 +1,25 @@
+rien Commencement () {
+
+ reel d, sum, temp;
+ d = 1.0;
+ sum = 0;
+ entier sign;
+ sign = 1;
+ pendant (sign==-1 || sum < 3.14) {
+  temp = 4/d;
+  temp = temp*sign;
+  sum = sum + temp;
+  sign = -sign;
+  d = d+2;
+  ecrivez (sum);
+  ecrivez ("\t");
+  ecrivez(sign);
+  ecrivez ("\n");
+  ecrivez(sign==-1);
+  ecrivez ("\t");
+  ecrivez(sum<3.14159);
+  ecrivez ("\t");
+  ecrivez(sign==-1||sum<3.14159);
+  ecrivez ("\n");
+ }
+}
